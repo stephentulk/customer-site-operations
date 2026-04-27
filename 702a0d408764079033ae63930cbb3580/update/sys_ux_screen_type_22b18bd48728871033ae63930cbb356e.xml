@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Control Tower</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-25 18:28:34</sys_created_on>
+        <sys_id>22b18bd48728871033ae63930cbb356e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Control Tower</sys_name>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_update_name>sys_ux_screen_type_22b18bd48728871033ae63930cbb356e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-25 18:28:34</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=22b18bd48728871033ae63930cbb356e"/>
+</record_update>

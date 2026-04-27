@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order>1000</order>
+        <page_registry display_value="Customer Site Operations">36339eaf771b404f93fe3c93626ce31a</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 15:15:43</sys_created_on>
+        <sys_id>875059c9e12b4a3a8c71d26885758183</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_875059c9e12b4a3a8c71d26885758183</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 15:15:43</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+</record_update>

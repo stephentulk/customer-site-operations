@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+  "name": "x-snc-customer-site-operations",
+  "version": "1.0.0",
+  "description": "Unified operations workspace for Schneider Electric MSSP. Provides cross-product visibility into Customer Cases, Security Incidents, OT Vulnerabilities, OT Changes, and OT Incidents — all filtered by Customer Account and OT Site.",
+  "license": "UNLICENSED",
+  "imports": {
+    "#now:*": "./@types/servicenow/fluent/*/index.js"
+  },
+  "scripts": {
+    "build": "now-sdk build",
+    "deploy": "now-sdk install",
+    "transform": "now-sdk transform",
+    "types": "now-sdk dependencies"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@servicenow/sdk": "4.6.0",
+    "@servicenow/glide": "27.0.5",
+    "@types/react": "18.3.12"
+  }
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_customer_sit/x-snc-customer-site-operations/1.0.0/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 15:15:39</sys_created_on>
+        <sys_id>3de1054808724552b2187b56f6e4d1e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_customer_sit/x-snc-customer-site-operations/1.0.0/package.json</sys_name>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_update_name>sys_module_3de1054808724552b2187b56f6e4d1e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 15:15:39</sys_updated_on>
+    </sys_module>
+</record_update>

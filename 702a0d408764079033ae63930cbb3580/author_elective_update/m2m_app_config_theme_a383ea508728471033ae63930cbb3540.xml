@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_app_config_theme">
+  <m2m_app_config_theme action="DELETE">
+    <sys_id>a383ea508728471033ae63930cbb3540</sys_id>
+    <sys_scope display_value="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_scope>
+    <sys_update_name>m2m_app_config_theme_a383ea508728471033ae63930cbb3540</sys_update_name>
+    <order>0</order>
+    <sys_domain>global</sys_domain>
+    <sys_domain_path>/</sys_domain_path>
+    <ux_app_configuration>44169887689e48c0bfbaf7a5361e9018</ux_app_configuration>
+  </m2m_app_config_theme>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</application>
+        <file_path/>
+        <instance_id>892701c7ebc0c3505a2dfceacad0cdca</instance_id>
+        <instance_name>demoalectriallwfzb147324</instance_name>
+        <name>m2m_app_config_theme_a383ea508728471033ae63930cbb3540</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_app_config_theme">
+  <m2m_app_config_theme action="INSERT_OR_UPDATE">
+    <sys_id>a383ea508728471033ae63930cbb3540</sys_id>
+    <sys_scope display_value="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_scope>
+    <sys_update_name>m2m_app_config_theme_a383ea508728471033ae63930cbb3540</sys_update_name>
+    <order>0</order>
+    <sys_domain>global</sys_domain>
+    <sys_domain_path>/</sys_domain_path>
+    <ux_app_configuration>44169887689e48c0bfbaf7a5361e9018</ux_app_configuration>
+  </m2m_app_config_theme>
+</record_update>]]></payload>
+        <payload_hash>72459080</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-25 16:27:07</sys_created_on>
+        <sys_id>17e5e6948768471033ae63930cbb351f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dc5775d090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-25 16:27:07</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>d3e5e694e5684710e90e3a47324fd11f</update_guid>
+        <update_guid_history>2383a690aa284710dc212b3c70e3fc1f:-971998615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1ff6661087a8471033ae63930cbb3527</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-25 16:31:45</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>96912414c5c54dd9a5c009ba5e408d69</sys_id>
+        <sys_metadata>a383ea508728471033ae63930cbb3540</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_scope_delete display_value="">0171273e3f274a848002dde277f31310</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_a383ea508728471033ae63930cbb3540</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_a383ea508728471033ae63930cbb3540">17e5e6948768471033ae63930cbb351f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-25 16:31:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

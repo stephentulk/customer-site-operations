@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Customer Site Operations Users">086c98e510c344d884ded7c57810e072</applicability>
+        <list display_value="Open Issues">216c21183df347e693117a2de52ff43b</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 15:15:41</sys_created_on>
+        <sys_id>6add120d436c45c7b1c26348ed3bb0eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_6add120d436c45c7b1c26348ed3bb0eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 15:15:41</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

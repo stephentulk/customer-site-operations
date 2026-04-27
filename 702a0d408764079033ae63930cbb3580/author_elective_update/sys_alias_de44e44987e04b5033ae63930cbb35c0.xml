@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_customer_sit.Github</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Github</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 14:56:26</sys_created_on>
+        <sys_id>de44e44987e04b5033ae63930cbb35c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_customer_sit.Github</sys_name>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_update_name>sys_alias_de44e44987e04b5033ae63930cbb35c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 14:56:26</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</application>
+        <file_path/>
+        <instance_id>892701c7ebc0c3505a2dfceacad0cdca</instance_id>
+        <instance_name>demoalectriallwfzb147324</instance_name>
+        <name>sys_alias_de44e44987e04b5033ae63930cbb35c0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_snc_customer_sit.Github</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>Github</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-27 14:56:26</sys_created_on><sys_id>de44e44987e04b5033ae63930cbb35c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_customer_sit.Github</sys_name><sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package><sys_policy/><sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope><sys_update_name>sys_alias_de44e44987e04b5033ae63930cbb35c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-27 14:56:26</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>664004998</payload_hash>
+        <record_name>x_snc_customer_sit.Github</record_name>
+        <reverted_from/>
+        <source>b82a0d408764079033ae63930cbb358f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 14:56:27</sys_created_on>
+        <sys_id>fe54ec4987e04b5033ae63930cbb3565</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dcf7111f00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 14:56:27</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>be546c49dee04b50f33bd1a51e7a36fb</update_guid>
+        <update_guid_history>be546c49dee04b50f33bd1a51e7a36fb:664004998</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 15:02:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>870a72ed60c848feb73d1dc6eb39fd21</sys_id>
+        <sys_metadata>de44e44987e04b5033ae63930cbb35c0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_customer_sit.Github</sys_name>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_scope_delete display_value="">0171273e3f274a848002dde277f31310</sys_scope_delete>
+        <sys_update_name>sys_alias_de44e44987e04b5033ae63930cbb35c0</sys_update_name>
+        <sys_update_version display_value="sys_alias_de44e44987e04b5033ae63930cbb35c0">fe54ec4987e04b5033ae63930cbb3565</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 15:02:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

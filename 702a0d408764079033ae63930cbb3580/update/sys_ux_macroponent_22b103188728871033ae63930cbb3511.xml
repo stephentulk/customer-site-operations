@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <bundles>[]</bundles>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[
+    {
+        "definition": {
+            "id": "2eda8d95aae6d05a26d94fbf692ac6f9",
+            "type": "MACROPONENT"
+        },
+        "elementId": "iframe_1",
+        "elementLabel": "iFrame 1",
+        "eventMappings": [],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "preset": null,
+        "propertyValues": {
+            "allow": {
+                "type": "JSON_LITERAL",
+                "value": {
+                    "accelerometer": true,
+                    "autoplay": true,
+                    "encrypted-media": true,
+                    "gyroscope": true,
+                    "picture-in-picture": true
+                }
+            },
+            "allowTopNavigation": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "data": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "disableSandbox": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "height": {
+                "type": "JSON_LITERAL",
+                "value": "1000"
+            },
+            "src": {
+                "type": "JSON_LITERAL",
+                "value": "/x_snc_customer_sit_control_tower.do"
+            },
+            "targetOrigin": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "title": {
+                "type": "JSON_LITERAL",
+                "value": "Control Tower"
+            },
+            "width": {
+                "type": "JSON_LITERAL",
+                "value": "100%"
+            }
+        },
+        "slot": null,
+        "styles": {
+            "default": {
+                "border-color": "RGB(var(--now-color--neutral-5))",
+                "border-style": "id",
+                "border-width": "var(--now-static-space--xxs)",
+                "height": "100%",
+                "max-height": "100%",
+                "max-width": "100%",
+                "width": "100%"
+            }
+        }
+    }
+]</composition>
+        <da_relay_models/>
+        <data>[]</data>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <form_factors>{
+    "custom_ff_1": {
+        "max-width": 640,
+        "reference": "macroponent"
+    }
+}</form_factors>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{}</internal_event_mappings>
+        <layout>{
+    "default": {
+        "children": null,
+        "items": [
+            {
+                "element_id": "iframe_1"
+            }
+        ],
+        "root": null,
+        "rules": null,
+        "styles": {
+            "flex-direction": "column"
+        },
+        "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+        "type": "flex"
+    },
+    "queries": [
+        {
+            "layout": {
+                "items": [],
+                "styles": {
+                    "flex-direction": "column",
+                    "height": "auto",
+                    "min-width": null
+                },
+                "type": "flex"
+            },
+            "queryId": "custom_ff_1"
+        }
+    ],
+    "version": "3.1.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Control Tower Variant</name>
+        <output_prop_mapping/>
+        <props>[]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
+        <state_properties>[]</state_properties>
+        <style_config>{}</style_config>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-25 18:28:34</sys_created_on>
+        <sys_id>22b103188728871033ae63930cbb3511</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Control Tower Variant</sys_name>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_update_name>sys_ux_macroponent_22b103188728871033ae63930cbb3511</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-25 19:24:12</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=22b103188728871033ae63930cbb3511"/>
+</record_update>

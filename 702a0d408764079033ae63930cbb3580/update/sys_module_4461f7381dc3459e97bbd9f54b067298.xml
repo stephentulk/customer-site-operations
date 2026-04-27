@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+  "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "serialNumber": "urn:uuid:407de931-35ec-4c68-a80e-a36f5c3aa4b4",
+  "metadata": {
+    "timestamp": "2026-04-25T20:04:59.598Z",
+    "tools": {
+      "components": [
+        {
+          "type": "library",
+          "name": "sdk-build-plugins",
+          "group": "@servicenow",
+          "version": "4.6.0",
+          "author": "ServiceNow"
+        }
+      ]
+    },
+    "component": {
+      "type": "application",
+      "name": "x-snc-customer-site-operations",
+      "version": "1.0.0",
+      "bom-ref": "pkg:servicenow/x-snc-customer-site-operations@1.0.0?sys_scope_id=702a0d408764079033ae63930cbb3580",
+      "description": "Unified operations workspace for Schneider Electric MSSP. Provides cross-product visibility into Customer Cases, Security Incidents, OT Vulnerabilities, OT Changes, and OT Incidents — all filtered by Customer Account and OT Site.",
+      "licenses": [
+        {
+          "license": {
+            "name": "UNLICENSED"
+          }
+        }
+      ],
+      "purl": "pkg:servicenow/x-snc-customer-site-operations@1.0.0?sys_scope_id=702a0d408764079033ae63930cbb3580"
+    }
+  },
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "pkg:servicenow/x-snc-customer-site-operations@1.0.0?sys_scope_id=702a0d408764079033ae63930cbb3580"
+    }
+  ]
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_customer_sit/x-snc-customer-site-operations/1.0.0/bom.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 15:15:39</sys_created_on>
+        <sys_id>4461f7381dc3459e97bbd9f54b067298</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_customer_sit/x-snc-customer-site-operations/1.0.0/bom.json</sys_name>
+        <sys_package display_value="Customer Site Operations" source="x_snc_customer_sit">702a0d408764079033ae63930cbb3580</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Site Operations">702a0d408764079033ae63930cbb3580</sys_scope>
+        <sys_update_name>sys_module_4461f7381dc3459e97bbd9f54b067298</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 15:15:39</sys_updated_on>
+    </sys_module>
+</record_update>
